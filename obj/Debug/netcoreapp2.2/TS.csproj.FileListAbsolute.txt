@@ -1,0 +1,95 @@
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.deps.json
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.runtimeconfig.json
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.runtimeconfig.dev.json
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.dll
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.csproj.CoreCompileInputs.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorAssemblyInfo.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorAssemblyInfo.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.AssemblyInfoInputs.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.AssemblyInfo.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.TagHelpers.input.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.TagHelpers.output.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorCoreGenerate.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorTargetAssemblyInfo.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorTargetAssemblyInfo.cs
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.pdb
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.Views.dll
+C:\Users\Sofia S\source\repos\TS\TS\bin\Debug\netcoreapp2.2\TS.Views.pdb
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.Views.pdb
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.dll
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.pdb
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.csproj.CopyComplete
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Create.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Delete.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Details.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Edit.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Index.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\TS.csprojAssemblyReference.cache
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Create.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Delete.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Details.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Edit.g.cshtml.cs
+C:\Users\Sofia S\source\repos\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.deps.json
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.runtimeconfig.json
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.runtimeconfig.dev.json
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.dll
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.pdb
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.Views.dll
+C:\Users\38096\Downloads\TS\TS\bin\Debug\netcoreapp2.2\TS.Views.pdb
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.csprojAssemblyReference.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.csproj.CoreCompileInputs.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorAssemblyInfo.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorAssemblyInfo.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.AssemblyInfoInputs.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.AssemblyInfo.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.TagHelpers.input.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.TagHelpers.output.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorCoreGenerate.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Create.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Delete.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Details.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Edit.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Create.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Delete.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Details.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Edit.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Providers\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorTargetAssemblyInfo.cache
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.RazorTargetAssemblyInfo.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.Views.pdb
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.dll
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.pdb
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\TS.csproj.CopyComplete
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Owners\Create.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Owners\Delete.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Owners\Details.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Owners\Edit.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Owners\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shops\Create.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shops\Delete.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shops\Details.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shops\Edit.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Shops\Index.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\38096\Downloads\TS\TS\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
